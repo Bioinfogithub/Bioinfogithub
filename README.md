@@ -1,12 +1,12 @@
 # Amar Jeet Yadav
 
-### Computational Biologist | Protein & Peptide Design | AI/ML | Molecular Modelling | Molecular Dynamics
+### Computational Biologist | Protein & Peptide Design | AI/ML | Molecular Modeling | Multiscale Molecular Dynamics Simulations
 
-PhD researcher at IIT (BHU) working at the interface of computational protein design, AI/ML, structural bioinformatics, molecular modelling, and multiscale molecular dynamics.
+Final Stage PhD researcher at IIT (BHU) working at the interface of computational protein design, AI/ML, structural bioinformatics, molecular modeling, and multiscale molecular dynamics.
 
-**Research interests:** Protein & peptide design · Sequence–structure modelling · Molecular docking · Molecular dynamics · Free-energy analysis · AI/ML for biomolecules
+**Research interests:** Protein & peptide design · Sequence–structure modeling · Molecular docking · Molecular dynamics · Free-energy analysis · AI/ML for biomolecules
 
-**Computational toolkit:** Python · PyTorch · R · GROMACS · ProteinMPNN · AlphaFold · ESMFold · MOE · HDOCK · Rosetta · PyMOL · VMD
+**Computational toolkit:** Python · PyTorch · R · GROMACS · ProteinMPNN · AlphaFold · ESMFold · MOE · HDOCK · Rosetta · PyMOL · VMD · Chimera · NAMD
 
 ### Research Focus
 
@@ -21,12 +21,12 @@ PhD researcher at IIT (BHU) working at the interface of computational protein de
 ### Selected Work
 
 🔬 **AI/ML for Protein Design**  
-LSTM-based sequence modelling and structure-informed sequence design.
+LSTM-based sequence prediction and structure-informed sequence design.
 
 🧬 **Structure-Guided Protein Redesign**  
-ProteinMPNN-assisted sequence generation, interface engineering, and candidate prioritization.
+ProteinMPNN-assisted sequence generation, Rational-redesign, interface engineering, and candidate prioritization.
 
-⚛️ **Molecular Modelling & Simulation**  
+⚛️ **Molecular Modeling & Simulation**  
 GROMACS-based AAMD/CGMD workflows, conformational analysis, and free-energy calculations.
 
 🧪 **Computational Bioinformatics**  
@@ -34,9 +34,9 @@ Sequence analysis, structural bioinformatics, biological data processing, and st
 
 ### Publications
 
-My research has resulted in peer-reviewed publications spanning computational protein design, molecular simulation, structural bioinformatics, and biomolecular engineering.
+My Ph.D. research has resulted in 7 peer-reviewed publications and 3 book-chapters spanning computational protein design, molecular simulation, structural bioinformatics, antibody and nanobody redesign and biomolecular engineering.
 
-### Contact
+### Contact details
 
-📧 amarjeetyadav.rs.bce23@itbhu.ac.in
+📧 amarjeetyadav.rs.bce23@iitbhu.ac.in | amarjeetyadav1072000@gmail.com
 📍 IIT (BHU), Varanasi, India
