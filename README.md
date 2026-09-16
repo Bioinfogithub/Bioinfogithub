@@ -36,6 +36,10 @@ Sequence analysis, structural bioinformatics, biological data processing, and st
 
 My Ph.D. research has resulted in 7 peer-reviewed publications and 3 book-chapters spanning computational protein design, molecular simulation, structural bioinformatics, antibody and nanobody redesign and biomolecular engineering.
 
+📄 [Google Scholar](https://scholar.google.com/citations?user=flrFzcAAAAAJ&hl=en) 
+🔗 [ORCID](https://orcid.org/0009-0007-0802-0451)  
+💼 [LinkedIn](www.linkedin.com/in/amar-jeet-yadav-ph-d-pursuing-5b32731b3)
+
 ### Contact details
 
 📧 amarjeetyadav.rs.bce23@iitbhu.ac.in | amarjeetyadav1072000@gmail.com
